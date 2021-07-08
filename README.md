@@ -17,7 +17,7 @@ Currently there are 2 libraries:
 
 ## 3. Initial acoustic data available
 Some RIRs simulated in Matlab are available in <a href="https://github.com/AlarconGanoza/sphericalAcoustic/tree/master/initialRIR">/initialRIR</a> .
-RIRs are obtained using the tool developed in [1].
+RIRs are obtained using the tool developed in Matlab.
 
 ## 4. Usage
 To use the libraries you have to copy both .py files to the work environment and import.
@@ -45,8 +45,7 @@ An example of RIR interpolation is shown in <a href="https://github.com/AlarconG
 
 
 ## 6. References
-[1]D. P. Jarret, E. A. P. Habets, M. R. P. Thomas, y P. A. Naylor, «Rigid sphere room impulse response simulation: algorithm and applications», J. Acoust. Soc. Am., vol. 132, n.º 3, pp. 1462-1472, sep. 2012, doi: 10.1121/1.4740497.
-https://www.audiolabs-erlangen.de/fau/professor/habets/software/smir-generator
+[1] J. Alarcón, J. Solis, and C. D. Salvador, “Regularized spherical Fourier transform for room impulse response interpolation,” to be presented at XXVII International Conference on Electronics, Electrical Engineering, and Computing (INTERCON), Lima, Peru, August 2021.
 
 ## 7. Author
 Julio Alarcón Ganoza
