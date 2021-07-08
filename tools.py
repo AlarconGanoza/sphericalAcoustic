@@ -45,7 +45,7 @@ def randDist(L, r=1):
     x = np.random.randn(L,3)
     norm = np.linalg.norm(x, axis = 1).reshape(L,1)
     x = (x/norm)*r
-    return x, L
+    return x
 
 # Distribution limits
 def distLimits(x,axis,lowerlim=-1,upperlim=1):
