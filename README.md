@@ -48,8 +48,8 @@ An example of RIR interpolation is shown in <a href="https://github.com/AlarconG
 [1] J. Alarcón, J. Solis, and C. D. Salvador, “Regularized spherical Fourier transform for room impulse response interpolation,” to be presented at XXVII International Conference on Electronics, Electrical Engineering, and Computing (INTERCON), Lima, Peru, August 2021.
 
 ## 7. Author
- -Julio Alarcón Ganoza.
+  - Julio Alarcón Ganoza.
 
- -<a href="https://cesardsalvador.github.io/index.html"> Cesar D. Salvador</a>.
+  - <a href="https://cesardsalvador.github.io/index.html"> Cesar D. Salvador</a>.
 
- -Javier Solis Lastra.
+  - Javier Solis Lastra.
