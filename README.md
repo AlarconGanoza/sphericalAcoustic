@@ -49,5 +49,7 @@ An example of RIR interpolation is shown in <a href="https://github.com/AlarconG
 
 ## 7. Author
 Julio Alarcón Ganoza.
+
 <a href="https://cesardsalvador.github.io/index.html"> Cesar D. Salvador</a>.
+
 Javier Solis Lastra
