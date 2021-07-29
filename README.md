@@ -2,7 +2,7 @@
 
 
 ## 1. Interpolation example
-An example of room impulse response interpolation is shown in <a href="https://colab.research.google.com/github/AlarconGanoza/sphericalAcoustic/blob/master/RIR_interpolation_Intercon21_example.ipynb">RIR_interpolation_Intercon21_example.ipynb</a>. (Google Colab notebook)
+An example of room impulse response interpolation can be run in <a href="https://colab.research.google.com/github/AlarconGanoza/sphericalAcoustic/blob/master/RIR_interpolation_Intercon21_example.ipynb">RIR_interpolation_Intercon21_example.ipynb</a>. (Google Colab notebook)
 
   - Interpolation errors using the regularized and non-regularized spherical Fourier transform are compared.
 
