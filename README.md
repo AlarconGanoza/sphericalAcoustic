@@ -22,9 +22,10 @@ Currently there are 2 libraries:
 |<a href="https://github.com/AlarconGanoza/sphericalAcoustic/blob/master/tools.py">tools.py</a>| Functions related to the points distribution on the sphere and 3D signal plotting|
 
 
-## 4. Initial acoustic data available
+## 4. Simulated acoustic data available
 Some RIRs simulated in Matlab are available in <a href="https://github.com/AlarconGanoza/sphericalAcoustic/tree/master/initialRIR">/initialRIR</a> .
-RIRs are obtained using the tool developed in Matlab.
+RIRs simulated can be used in tests as initial data and target data.
+
 
 ## 5. Usage
 To use the libraries you have to copy both .py files to the work environment and import.
