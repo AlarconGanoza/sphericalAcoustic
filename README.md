@@ -48,10 +48,11 @@ plt.show()
 
 
 ## 6. References
-[1] J. Alarcón, J. Solis, and C. D. Salvador, “Regularized spherical Fourier transform for room impulse response interpolation,” to be presented at XXVII International Conference on Electronics, Electrical Engineering, and Computing (INTERCON), Lima, Peru, August 2021.
+[1] J. Alarcón, J. Solis, and C. D. Salvador, “Regularized spherical Fourier transform for room impulse response interpolation,” XXVII International Conference on Electronics, Electrical Engineering, and Computing (INTERCON), Lima, Peru, August 2021.
+[DOI: 10.1109/INTERCON52678.2021.9532805]
 
 ## 7. Author
-  - Julio Alarcón Ganoza.
+  - J. Alarcón.
 
   - <a href="https://cesardsalvador.github.io/index.html"> Cesar D. Salvador</a>.
 
