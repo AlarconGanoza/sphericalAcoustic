@@ -37,8 +37,10 @@ import sphericalAcoustics as sac
 import tools as sat
 import matplotlib.pyplot as plt
 
-x = sat.randDist(L=40, r=0.08)
-fig = sat.plotDist(x)
+icoDirectory = 'matFiles\icosphere\icolr'
+x, L = sat.icosphereDist(icoDirectory, 8)
+Y22 = sac.baseFunction(2, 2, x)
+fig, ax = sat.plotFunction(Y22, x, polarForm=True)
 plt.show()
 ```
 
