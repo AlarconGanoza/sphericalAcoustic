@@ -30,7 +30,7 @@ RIRs simulated can be used in tests as initial data and target data.
 ## 5. Usage
 To use the libraries you have to copy both .py files to the work environment and import.
 
-For example, to generate and plot a random distribution of **L** points on a sphere of radius 8 cm.
+For example, to generate and plot a spherical harmonic in a icosphere distribution of **L** points on a sphere of radius 8 cm.
 
 ```python
 import sphericalAcoustics as sac
@@ -43,7 +43,7 @@ plt.show()
 ```
 
 <div align="center">
-<img src="./images/randDistPlot.png" width="300">
+<img src="./images/Y22.png" width="300">
 </div>
 
 
