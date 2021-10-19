@@ -43,7 +43,7 @@ plt.show()
 ```
 
 <div align="center">
-<img src="./images/Y22.png" width="300">
+<img src="./images/Y22.png" width="500">
 </div>
 
 
