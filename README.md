@@ -27,7 +27,7 @@ Some RIRs simulated in Matlab are available in <a href="https://github.com/Alarc
 RIRs simulated can be used in tests as initial data and target data.
 
 
-## 5. Usage
+## 5. How to plot a single spherical harmonic
 To use the libraries you have to copy both .py files to the work environment and import.
 
 For example, to generate and plot a spherical harmonic in a icosphere distribution of **L** points on a sphere of radius 8 cm.
