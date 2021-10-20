@@ -51,7 +51,7 @@ plt.show()
 
 ## 6. References
 [1] J. Alarcón, J. Solis, and C. D. Salvador, “Regularized spherical Fourier transform for room impulse response interpolation,” XXVII International Conference on Electronics, Electrical Engineering, and Computing (INTERCON), Lima, Peru, August 2021.
-href="https://ieeexplore.ieee.org/document/9532805"> [DOI: 10.1109/INTERCON52678.2021.9532805] </a>
+<a href="https://ieeexplore.ieee.org/document/9532805"> [DOI: 10.1109/INTERCON52678.2021.9532805] </a>
 
 
 ## 7. Author
